@@ -1,16 +1,23 @@
-### Hi there 👋
+# leonardobetti
 
-<!--
-**leonardobetti/leonardobetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi all :wave:
 
-Here are some ideas to get you started:
+I'm Leonardo Betti and I'm a UX/UI Designer in the Product Design team at FSB Tech. I live in North West London 🇬🇧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About me:
+- I was born in Brazil, but I'm also italian and british (multiple citizenship)
+- I deep love dogs, but not the tiny ones (poodle)
+
+Things I like:
+- 🇬🇧 London
+- ♞ Chess
+- 🏖️ Seaside
+- 📦 Design Systems
+- 📈 Infographics
+- 🗓 OpenPGP
+- ☕️ Coffee
+- 📝 GNU Linux / OpenSource
+
+
+Find me on:
+- [Linkedin](https://www.linkedin.com/in/leonardobetti87)
