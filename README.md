@@ -9,10 +9,9 @@ I'm also into:
 - ⚽️ Ponte Preta ♞ Chess
 - 🖥️ Figma (UI) 🎨 Adobe Creative Suite
 - ☕️ Coffee _no sugar please_  🐶 Dogs
-- 📝 Linux (Debian, Free Software, VMs etc)
+- 📝 Linux (Debian, Free Software, VMs, Docker etc)
 - 🕵🏻‍♂️ Privacy (OpenPGP, Tor, Signal, Onionshare etc)
-- 🛸 Sci-fi (ST, SW, Lotr etc)
-
+- 🛸 Nerd stuff (ST, SW, Lotr, Sandman, Vertigo Graphic Novels etc)
 
 
 
