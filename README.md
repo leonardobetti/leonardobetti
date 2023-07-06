@@ -18,4 +18,4 @@ I'm also into:
 
 Contact:
 - [Mail](https://www.leonardobetti.co.uk) leonardobetti [at] gmail.com
-<a rel="me" href="https://mastodon.social/@leonardobetti">Mastodon</a>
+- <a rel="me" href="https://mastodon.social/@leonardobetti">Mastodon</a> @leonardobetti@mastodon.social 
