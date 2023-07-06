@@ -18,4 +18,4 @@ I'm also into:
 
 Contact:
 - [Mail](https://www.leonardobetti.co.uk) leonardobetti [at] gmail.com
-- [PGP Key](https://gist.github.com/leonardobetti/6f4d8be16f1fb1c1597bb50d1721410a)
+<a rel="me" href="https://mastodon.social/@leonardobetti">Mastodon</a>
