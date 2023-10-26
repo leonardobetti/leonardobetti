@@ -6,7 +6,7 @@ I'm Leonardo Betti and I'm a UX/UI Designer in the Product Design team at FSB Te
 [bento.me/leonardobetti](https://bento.me/leonardobetti)
 
 I'm also into:
-- 🇬🇧 London 🇪🇸 Barcelona
+- 🇬🇧 London
 - ⚽️ Ponte Preta ♞ Chess
 - 🖥️ Figma (UI) 🎨 Adobe Creative Suite
 - ☕️ Coffee _no sugar please_  🐶 Dogs
