@@ -3,7 +3,7 @@
 Hi all :wave:
 
 I'm Leonardo Betti and I'm a UX/UI Designer in the Product Design team at FSB Tech (UK).  
-[bento.me/leonardobetti](https://bento.me/leonardobetti)
+[Portfolio](https://leonardobetti.co.uk)
 
 I'm also into:
 - 🇬🇧 London
